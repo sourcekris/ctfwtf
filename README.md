@@ -25,7 +25,7 @@ There are two common formats of CTF competitions: Jeopardy style CTFs and Attack
 
 1. **Jeopardy style CTFs**: In this format, challenges are organized into different categories, similar to the Jeopardy game show. Each category represents a specific aspect of cybersecurity, such as cryptography, web exploitation, reverse engineering, binary exploitation, forensics, or network security. Each challenge is assigned a certain number of points based on its difficulty level, and participants attempt to solve as many challenges as possible within a given time frame. 
 
-![Jeopardy CTF](jeopardyctf.png)
+![Jeopardy CTF](rsc/jeopardyctf.png)
 *Jeopardy Style CTF Challenges and the Jeopardy game show board.*
 
 2. **Attack-Defense CTFs**: This format involves teams competing against each other in a simulated networked environment. Each team is provided with a set of virtual machines or systems, which they must defend from attacks by other teams while simultaneously launching attacks on the opponents' systems. The objective is to find and exploit vulnerabilities in the opponents' systems while securing and patching their own. Points are scored based on successful attacks or defenses, such as capturing flags from opponent systems or successfully defending against attacks.
@@ -60,5 +60,5 @@ These categories provide a diverse set of challenges, allowing participants to s
 ## Author
 
 * Kris Hunt ([@sourcekris](https://github.com/sourcekris))
-* Based on [CTFWTF? Presentation](CTFWTF-PlatypusCon1.pdf) from 2016
+* Based on [CTFWTF? Presentation](rsc/CTFWTF-PlatypusCon1.pdf) from 2016
 
