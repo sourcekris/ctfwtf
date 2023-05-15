@@ -5,11 +5,11 @@
 | |           | |      |  _|      \ \/  \/ /       | |      |  _|     /  __.' 
 \ `.___.'\   _| |_    _| |_        \  /\  /       _| |_    _| |_      |_|     
  `.____ .'  |_____|  |_____|        \/  \/       |_____|  |_____|     (_)     
-                                                                              
+
+                     Primer and Getting Started With CTF  
 ```
 
-# CTFWTF?
-## Primer and Getting Started With CTF
+## Chapter 1: Introduction
 
 A Capture the Flag (CTF) competition is a popular form of cybersecurity challenge where participants test their skills and knowledge in various areas of computer security. The main objective of a CTF is to solve a series of tasks or puzzles, referred to as challenges, to obtain "flags." Flags are usually unique strings of text that serve as proof of successfully completing a particular challenge and look like these examples:
 
@@ -51,6 +51,11 @@ The challenges in a CTF competition cover a wide range of categories, depending 
 9. **Miscellaneous**: Miscellaneous challenges that don't fit into specific categories, such as trivia questions, general knowledge puzzles, or unconventional tasks.
 
 These categories provide a diverse set of challenges, allowing participants to showcase their skills in various areas of computer security and encouraging them to think creatively and critically in order to solve complex problems.
+
+## Next Up
+
+* [Chapter 2 - Your CTF Journey and what you need](chapter2.md)
+
 
 ## Author
 
