@@ -56,7 +56,6 @@ These categories provide a diverse set of challenges, allowing participants to s
 
 * [Chapter 2 - Your CTF Journey and what you need](chapter2.md)
 
-
 ## Author
 
 * Kris Hunt ([@sourcekris](https://github.com/sourcekris))
