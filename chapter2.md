@@ -9,7 +9,7 @@ While CTF challenges generally do not require high-end hardware, having a comput
 
 Internet Connection: A stable and reliable internet connection is crucial for accessing online resources, downloading tools, and interacting with CTF platforms during competitions. High-speed connection with low latency will ensure optimal performance.
 
-#### A note about Mac M1 / M2 Laptops
+#### A note about Mac M1 / M2 Computers
 
 If your hardware of choice is a modern Mac, you need to be aware of some challenges when participating in CTFs:
 
